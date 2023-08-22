@@ -1,0 +1,9 @@
+{
+  "emmet.variables": {
+    "lang": "ja"
+  },
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {},
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.iconTheme": "vscode-icons"
+}
